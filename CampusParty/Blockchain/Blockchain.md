@@ -1,6 +1,6 @@
 # Blockchain
 
-Bitcoin è una moneta non fiduciaria:
+Bitcoin è una moneta **non fiduciaria**:
 
 * Non ha una terza parte centrale che può "censurare"
 
