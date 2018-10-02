@@ -87,4 +87,4 @@ Componente **contenitore**.
 Per chiamare JS all'interno dell'output devo usare le {}
 
 ## Babbel
-Precompila il codice e lo rende leggibile dal Browser
+Precompila il codice e lo rende leggibile dal Browser.
