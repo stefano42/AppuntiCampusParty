@@ -2,7 +2,7 @@
 
 React è una libreria che permette di creare interfacce utente.
 
-(Pinterest usa react <3)
+(Pinterest usa react ♥)
 
 Caratteristiche:
 
