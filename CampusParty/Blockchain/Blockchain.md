@@ -50,6 +50,6 @@ Se ho risorse elevate di conviene di più aiutare la rete facendo mining che att
 
 Sono fattibili in quanto bitcoin è open source, degli esempi di altri cripto-valute sono:
 
-* LiteCoin
+* **LiteCoin**
 
-* Smart contract: è specializzato nei contratti (se metto dei soldi in una scatola, ti saranno asseganti se faccio un'attività X). Devo scrivere il contratto in linguaggio di programmazione, non facile quindi. Il contratto **NON È REVERSIBILE**.
+* **Smart contract**: è specializzato nei contratti (se metto dei soldi in una scatola, ti saranno asseganti se faccio un'attività X). Devo scrivere il contratto in linguaggio di programmazione, non facile quindi. Il contratto **NON È REVERSIBILE**.
