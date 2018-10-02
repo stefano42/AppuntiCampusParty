@@ -26,7 +26,7 @@ Sono come delle classi che accettano dei valori (props) e restituiscono in outpu
 
 ### props
 Oggetti le cui chiavi corrispondono alle proprietà.
-NON cambiano.
+**NON** cambiano.
 Possono essere passate di "padre in figlio" ma non viceversa.
 
 (Prima lettera in Maiuscolo)
