@@ -24,7 +24,7 @@ Bitcoin è una moneta **non fiduciaria**:
 
 * Unità di conto
 
-Il mining è finalizzato come CERTIFICA di bitcoin e delle transizioni, non nella produzione, è stato aggiunto il guadagno per incentivare l'attività, quando saranno prodotti tutti i bitcoin bisognerà guadagnare in altro modo.
+Il mining è finalizzato come **CERTIFICA** di bitcoin e delle transizioni, non nella produzione, è stato aggiunto il guadagno per incentivare l'attività, quando saranno prodotti tutti i bitcoin bisognerà guadagnare in altro modo.
 
 ## Caratteristiche Blockchain
 
@@ -52,4 +52,4 @@ Sono fattibili in quanto bitcoin è open source, degli esempi di altri cripto-va
 
 * LiteCoin
 
-* Smart contract: è specializzato nei contratti (se metto dei soldi in una scatola, ti saranno asseganti se faccio un'attività X). Devo scrivere il contratto in linguaggio di programmazione, non facile quindi. Il contratto NON È REVERSIBILE.
+* Smart contract: è specializzato nei contratti (se metto dei soldi in una scatola, ti saranno asseganti se faccio un'attività X). Devo scrivere il contratto in linguaggio di programmazione, non facile quindi. Il contratto **NON È REVERSIBILE**.
