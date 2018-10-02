@@ -2,7 +2,7 @@
 
 React è una libreria che permette di creare interfacce utente.
 
-(Pinterest usa react <3)
+(Pinterest usa react ♥)
 
 Caratteristiche:
 
@@ -26,7 +26,7 @@ Sono come delle classi che accettano dei valori (props) e restituiscono in outpu
 
 ### props
 Oggetti le cui chiavi corrispondono alle proprietà.
-NON cambiano.
+**NON** cambiano.
 Possono essere passate di "padre in figlio" ma non viceversa.
 
 (Prima lettera in Maiuscolo)
